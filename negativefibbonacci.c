@@ -1,11 +1,4 @@
-#include <stdio.h>
-/*
-Name :Indupriya Reganti
-Date :
-Sample input:
-Sample output:
-Description:
-*/
+
 int main()
 {
 int num1=0,num2=1,temp;
