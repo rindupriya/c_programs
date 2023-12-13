@@ -1,10 +1,9 @@
 #include <stdio.h>
 /*
 Name :Indupriya Reganti
-Date :
-Sample input:
-Sample output:
-Description:
+Date :13/12/2023
+Sample input:0xab
+Sample output:ba
 */
 int main()
 {
