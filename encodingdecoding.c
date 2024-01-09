@@ -1,10 +1,11 @@
 #include <stdio.h>
 /*
 Name :Indupriya Reganti
-Date :
-Sample input:
-Sample output:
-Description:
+Date :9/1/2024
+Sample input:'c'
+char arr[]={0xFF,0xFE,0xA0,0xB0,0x01,0x02,0xFA,0xEE};
+Sample output:encoded
+Description:encoding and decoding using bitwise operation
 */
 int main()
 {
